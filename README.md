@@ -5,4 +5,4 @@
 - Download/clone contents of repo
 - Navigate to the directory containing contents of repo
 - Execute the following command
-    - sudo python3 hangman.py
+    - "sudo python3 hangman.py"
